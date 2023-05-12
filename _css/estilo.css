@@ -13,7 +13,7 @@
 .desafio {
     border-bottom: 2px dotted;
     margin-top: 0.5%;
-    padding-left: 5%;
+    padding-left: 2.5%;
 }
 
 .exercicio1 > img, 
@@ -27,4 +27,8 @@
 
     border: 2px solid;
     margin-bottom: 1.5%;
+}
+
+a, p, h3 {
+    padding: 0.75%;
 }
