@@ -12,7 +12,6 @@
 .exercicio4,
 .desafio {
     border-bottom: 2px dotted;
-    margin-top: 0.5%;
     padding-left: 2.5%;
 }
 
@@ -29,6 +28,18 @@
     margin-bottom: 1.5%;
 }
 
+.exercicio2, 
+.exercicio3, 
+.exercicio4,
+.desafio {
+    margin-top: 2.5%;
+}
+
+
 a, p, h3 {
     padding: 0.75%;
+}
+
+h1 {
+    color: firebrick;
 }
